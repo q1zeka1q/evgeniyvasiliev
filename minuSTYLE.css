@@ -10,7 +10,9 @@ h1{
     letter-spacing: 2px;
     font-variant: small-caps;
     color: darkblue;
+    text-align: center;
 }
+
 body{
     font-family:Georgia, Times, serif ;
     background-color: lavender;
@@ -33,12 +35,14 @@ h3{
     letter-spacing: 2px;
     font-variant: small-caps;
     color: darkblue;
+    width: 100%;
 }
 #pilt{
     border-radius: 160px;
     width: 100%;
     padding: 2px;
-    text-align: center
+    text-align: center;
+    margin: 20px 0 0 0;
 }
  #pilt1{
      border-radius: 160px;
@@ -46,3 +50,4 @@ h3{
      padding: 2px;
      text-align: center
  }
+
